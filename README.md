@@ -94,5 +94,5 @@ Acho que esse README representa muito bem quem você é hoje: um profissional ex
 ---
 
 ## 🏃‍♂️‍➡️ Siga-me no projeto ATHENA Framework 🧑‍🏫
-![Clique aqui](img/LogoAthenaFrameWorkFundoAzul.png)
-(img/LogoAthenaFrameWorkFundoAzul.png)
+**[Clique aqui](https://github.com/buranelobrbc/athena-framework.git)**
+![alt text](img/LogoAthenaFrameWorkFundoAzul.png)
