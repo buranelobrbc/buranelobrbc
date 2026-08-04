@@ -90,3 +90,9 @@ Acredito na aprendizagem contínua, no compartilhamento do conhecimento e no des
 Acho que esse README representa muito bem quem você é hoje: um profissional experiente, professor por vocação e consultor de tecnologia que está evoluindo sua atuação em Inteligência Artif[...]
 
 ![alt text](img/FolderBRBCAzulLaranja.png)
+
+---
+
+## 🏃‍♂️‍➡️ Siga-me no projeto ATHENA Framework 🧑‍🏫
+![Clique aqui](img/LogoAthenaFrameWorkFundoAzul.png)
+(img/LogoAthenaFrameWorkFundoAzul.png)
