@@ -88,3 +88,4 @@ Acredito na aprendizagem contínua, no compartilhamento do conhecimento e no des
 
 Acho que esse README representa muito bem quem você é hoje: um profissional experiente, professor por vocação e consultor de tecnologia que está evoluindo sua atuação em Inteligência Artificial, sem criar uma imagem que ainda não corresponda à sua trajetória. Conforme o Projeto ATHENA evoluir, poderemos enriquecê-lo com estatísticas do GitHub, projetos em destaque e uma identidade visual própria.
 
+![alt text](img/FolderBRBCAzulLaranja.png)
