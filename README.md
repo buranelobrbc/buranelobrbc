@@ -12,17 +12,19 @@ Atualmente, concentro meus estudos e projetos em **Inteligência Artificial**, *
 
 # 🚀 Áreas de Interesse
 
-* Inteligência Artificial
-* Arquitetura de Soluções
-* Gestão da Informação
-* Transformação Digital
+* Desenvolvimento .Net C# e outras linguagens
+* Educação e Tecnologia
+* APIs e Integrações
 * Engenharia de Software
+* Gestão da Informação
+* Arquitetura de Soluções
+* Inteligência Artificial
+* Transformação Digital
 * Computação em Nuvem
 * Automação de Processos
 * Microsoft 365
-* Python
-* APIs e Integrações
-* Educação e Tecnologia
+
+
 
 ---
 
