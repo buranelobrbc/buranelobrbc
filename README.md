@@ -4,9 +4,9 @@
 
 Sou apaixonado por utilizar a tecnologia para desenvolver pessoas e transformar organizações.
 
-Ao longo da minha trajetória, atuei como professor, consultor e arquiteto de soluções, sempre buscando conectar conhecimento técnico, inovação e necessidades reais do mercado. Acredito que a tecnologia só faz sentido quando gera impacto positivo na vida das pessoas e contribui para o crescimento das organizações.
+Ao longo da minha trajetória, atuei como professor, consultor e arquiteto de soluções, sempre buscando conectar conhecimento técnico, inovação e necessidades reais do mercado. Acredito que a [...]
 
-Atualmente, concentro meus estudos e projetos em **Inteligência Artificial**, **Gestão da Informação**, **Transformação Digital** e **Arquitetura de Soluções**, desenvolvendo aplicações práticas que unem estratégia, tecnologia e inovação.
+Atualmente, concentro meus estudos e projetos em **Inteligência Artificial**, **Gestão da Informação**, **Transformação Digital** e **Arquitetura de Soluções**, desenvolvendo aplicações p[...]
 
 ---
 
@@ -32,7 +32,7 @@ Atualmente, concentro meus estudos e projetos em **Inteligência Artificial**, *
 
 > **Utilizar a tecnologia para desenvolver pessoas e criar soluções que transformem organizações.**
 
-Acredito que ensinar vai muito além de transmitir conhecimento. É participar da jornada de crescimento das pessoas, preparando profissionais para enfrentar desafios reais com competência, ética e propósito.
+Acredito que ensinar vai muito além de transmitir conhecimento. É participar da jornada de crescimento das pessoas, preparando profissionais para enfrentar desafios reais com competência, étic[...]
 
 ---
 
@@ -50,6 +50,7 @@ Este repositório reúne projetos relacionados a:
 * 📚 Estudos e Laboratórios
 * 🚀 Projetos Pessoais
 * 💡 Provas de Conceito (PoCs)
+* 🔗 Repositório: [athena-framework](https://github.com/buranelobrbc/athena-framework) — Open Source Framework for Digital Transformation.
 
 ---
 
@@ -86,6 +87,6 @@ Acredito na aprendizagem contínua, no compartilhamento do conhecimento e no des
 
 > **"A tecnologia transforma organizações. A educação transforma pessoas. Meu propósito é conectar as duas."**
 
-Acho que esse README representa muito bem quem você é hoje: um profissional experiente, professor por vocação e consultor de tecnologia que está evoluindo sua atuação em Inteligência Artificial, sem criar uma imagem que ainda não corresponda à sua trajetória. Conforme o Projeto ATHENA evoluir, poderemos enriquecê-lo com estatísticas do GitHub, projetos em destaque e uma identidade visual própria.
+Acho que esse README representa muito bem quem você é hoje: um profissional experiente, professor por vocação e consultor de tecnologia que está evoluindo sua atuação em Inteligência Artif[...]
 
 ![alt text](img/FolderBRBCAzulLaranja.png)
